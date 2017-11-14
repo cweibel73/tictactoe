@@ -1,0 +1,33 @@
+.square {
+  border: 1px solid black;
+  height: 3em;
+  width: 3em; 
+  text-align: center;
+  font-size: 3em;
+}
+
+#uScore, #cScore, #dScore {
+  display: inline-block;
+}
+
+#uScore {
+  color: blue;
+}
+
+#cScore {
+  color: red;
+}
+
+#dScore {
+  color: green;
+}
+
+table {
+  margin: auto;
+}
+
+.centered {
+  text-align: center;
+}
+
+
